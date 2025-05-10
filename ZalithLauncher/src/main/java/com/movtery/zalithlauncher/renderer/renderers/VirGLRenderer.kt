@@ -13,7 +13,9 @@ class VirGLRenderer : RendererInterface {
 
     override fun getRendererEnv(): Lazy<Map<String, String>> = lazy {
         mapOf(
-            "VTEST_SOCKET_NAME" to File(PathManager.DIR_CACHE, ".virgl_test").absolutePath
+            "VTEST_SOCKET_NAME" to File(PathManager.DIR_CACHE, ".virgl_test").absolutePath,
+            "MESA_GL_VERSION_OVERRIDE" to "3.2",
+            "MESA_GLSL_VERSION_OVERRIDE" to "320"
         )
     }
 
