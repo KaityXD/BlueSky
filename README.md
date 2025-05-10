@@ -12,7 +12,7 @@
 - BlueSky Launcher aims to enhance user experience by redesigning the app interface, adding more practical features, and lowering the barrier to entry, making it easier for more people to enjoy Minecraft.
 
 ⚠️**Note! This project is just a community rework, similar to how PojavLauncher is developed based on [Boardwalk](https://github.com/zhuowei/Boardwalk).**  
-⚠️**Additionally, we have never set up any official website. Our only community is on [GitHub]([https://github.com/](https://github.com/KaityXD)). Any other content is created by unofficial individuals. We do not participate in, accept, or trust such content. Please verify carefully and protect your personal privacy!**
+⚠️**Additionally, we have never set up any official website. Our only community is on [GitHub](https://github.com/KaityXD). Any other content is created by unofficial individuals. We do not participate in, accept, or trust such content. Please verify carefully and protect your personal privacy!**
 
 <h2 align="center">Todo</h2>
 
