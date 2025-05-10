@@ -16,7 +16,7 @@
 
 <h2 align="center">Todo</h2>
 
-- [ ] branding and other name related stuff
+- [X] branding and other name related stuff (partly done now)
 - [ ] revamp the ui
 - [ ] better default renders
 - [ ] alternative turnip selution for non adrenos
