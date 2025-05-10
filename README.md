@@ -56,4 +56,4 @@ This project uses several useful code libraries. Special thanks to them!
 >- [CommonMark](https://github.com/thephpleague/commonmark) (for rendering Markdown text): [BSD-3-Clause License](https://github.com/thephpleague/commonmark/blob/2.5/LICENSE)
 >- [AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations) (uses part of the animation source code): [MIT License](https://github.com/daimajia/AndroidViewAnimations/blob/master/License)
 >- [TapTargetView](https://github.com/KeepSafe/TapTargetView) (for creating onboarding guides): [Apache License 2.0](https://github.com/KeepSafe/TapTargetView/blob/master/LICENSE)
->- [ZalithLauncher]([https://github.com/ZalithLauncher/ZalithLauncher/) (for creating source base): [GNU General Public License v3.0](https://github.com/ZalithLauncher/ZalithLauncher/blob/main/LICENSE)
+>- [ZalithLauncher](https://github.com/ZalithLauncher/ZalithLauncher/) (for creating source base): [GNU General Public License v3.0](https://github.com/ZalithLauncher/ZalithLauncher/blob/main/LICENSE)
