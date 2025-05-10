@@ -14,6 +14,15 @@
 ⚠️**Note! This project is just a community rework, similar to how PojavLauncher is developed based on [Boardwalk](https://github.com/zhuowei/Boardwalk).**  
 ⚠️**Additionally, we have never set up any official website. Our only community is on [GitHub]([https://github.com/](https://github.com/KaityXD)). Any other content is created by unofficial individuals. We do not participate in, accept, or trust such content. Please verify carefully and protect your personal privacy!**
 
+<h2 align="center">Todo</h2>
+
+- [] branding and other name related stuff
+- [] revamp the ui
+- [] better default renders
+- [] alternative turnip selution for non adrenos
+- [] better java args by default
+- [] and more
+
 <h2 align="center">New Features</h2>
 
 - [x] Refactored app layout for improved aesthetics and usability.
