@@ -16,12 +16,12 @@
 
 <h2 align="center">Todo</h2>
 
-- [] branding and other name related stuff
-- [] revamp the ui
-- [] better default renders
-- [] alternative turnip selution for non adrenos
-- [] better java args by default
-- [] and more
+- [ ] branding and other name related stuff
+- [ ] revamp the ui
+- [ ] better default renders
+- [ ] alternative turnip selution for non adrenos
+- [ ] better java args by default
+- [ ] and more
 
 <h2 align="center">New Features</h2>
 
